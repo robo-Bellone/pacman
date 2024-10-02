@@ -1,5 +1,5 @@
-# AI 인공지능
-See Midterm and Final Project:
+# 로봇지능
+See Project:
 https://sites.google.com/hanyang.ac.kr/2021ai
 
 
