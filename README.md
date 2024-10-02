@@ -1,4 +1,4 @@
-# 로봇지능
+# 로봇지능 중간 프로젝트 
 See Project:
 https://sites.google.com/hanyang.ac.kr/2021ai
 
